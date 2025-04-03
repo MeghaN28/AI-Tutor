@@ -1,4 +1,4 @@
-# AI-Tutor
+# AI-Tutor  Team 4 
 AI-Tutor for Seattle DataAI Project
 
 
